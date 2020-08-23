@@ -1,0 +1,26 @@
+# Fun with Mctext 
+# Release 1.1 alpha
+# Original Author : shasankp000 (www.github.com/shasankp000)
+# This is a game which is minecraft, but entirely a text based, choice selection based game.
+# Messages similar to minecraft text console , which makes the player feel familiar to minecraft(if they have played it before)
+# Current features include: 
+> the command block(includes the console, and some commands of the minecraft console)
+> the redstone torch(available, but not implemented in inventory or usage yet)
+> the redstone dust(available and can be used)
+> the redstone repeater(available and can be used)
+> the lever (available and can be used)
+> the console commands are based on the 1.16.2 minecraft version. (very recent one. i always keep updated with the versions.)
+## Currently the command block operates on its default power source , that is a button placed near it. The redstone power feature will be added in the next update. ##
+## Fixed the unwanted game pause with no input recognition after some choices. Now game will ask the player what the player wants to do next after each action ##
+## The default gamemode is set to Creative mode. The gamemode change options with other gamemodes will be added in the next update ##
+## A new debugger will be added to debug buggy codes ##
+## A new feature will be added so that the player can input custom commands (works only on the custom created command blocks, not the game defined ones.)
+
+Have Fun :D 
+
+If you want to collaborate , contact my instagram account @steve._2004 .
+
+Please support the project, i started this as a source of entertainment in these boring and stressful times, and want to share my creation with the world so that they can be happy too :D 
+
+Thanks again, 
+#Stay home , stay safe. 
